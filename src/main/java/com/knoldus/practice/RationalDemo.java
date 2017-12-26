@@ -98,7 +98,6 @@ public int getNumeratorMultplication(int num1,int num2)
 }
 
 
-
 public static void main(String[] args) throws NumberFormatException, IOException 
 {	
 	int numerator1;
